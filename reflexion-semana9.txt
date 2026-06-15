@@ -1,0 +1,5 @@
+¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+Garantiza la disponibilidad del servidor, reduciendo las fallas
+Evita la perdida de información
+Protege la privacidad de las personas
+Permite detectar y corregir  problemas a tiempo
